@@ -1,4 +1,4 @@
-# 🧹 Lab 4.2 — Borrar Registros de Máquinas Windows usando Varias Utilidades
+# Lab 4.2 — Borrar Registros de Máquinas Windows usando Varias Utilidades
 
 > **Módulo 06 - System Hacking — Covering Tracks**
 > **Referencia:** CEH Lab Manual Page 699 (v11) / Page 887 (v12)
