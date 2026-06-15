@@ -7,8 +7,8 @@
 > **Fecha:** 14 de junio de 2026
 > **Entorno:** Windows 10 (Build 19045) — VMware Workstation
 >
-> Video demostrativo:
-> https://www.youtube.com/watch?v=JAn8-4OsON0
+> ### **Video demostrativo:**### 
+> ### https://www.youtube.com/watch?v=JAn8-4OsON0 ### 
 
 ---
 
